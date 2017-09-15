@@ -1,6 +1,6 @@
 <!--
-Please check the [existing issues](https://github.com/RikkaApps/App-Ops-issue-tracker/issues?q=is%3Aissue) and read in-app help before report issues, Thanks!
-请在报告问题之前检查 [已有的 issue](https://github.com/RikkaApps/App-Ops-issue-tracker/issues?q=is%3Aissue) 并查阅应用内帮助，感谢您的支持！
+Please check the existing issues https://github.com/RikkaApps/App-Ops-issue-tracker/issues?q=is%3Aissue and read in-app help before report issues, Thanks!
+请在报告问题之前检查已有的 issue https://github.com/RikkaApps/App-Ops-issue-tracker/issues?q=is%3Aissue 并查阅应用内帮助，感谢您的支持！
 
 Replace the tips between <!-- -- > (include itself) with your actual situation.
 将 <!-- -- > 之间的提示 (包括 <!-- -- > 本身) 替换成您的实际情况。
@@ -28,8 +28,8 @@ Put an `x` inside the [ ] that applies.
 在您使用的配置前面的 [ ] 内填入 x 。
 
 Example / 例子: 
-- [x] item applies / 符合的选项
-- [ ] item doesn't apply / 不符合的选项
+- [x] item that applies / 符合的选项
+- [ ] item that doesn't apply / 不符合的选项
 -->
 
 ##### Implementation / 实现
