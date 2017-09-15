@@ -29,7 +29,7 @@ Put an `x` inside the [ ] that applies.
 
 Example / 例子: 
 - [x] item applies / 符合的选项
-- [ ] item doesn't applies / 不符合的选项
+- [ ] item doesn't apply / 不符合的选项
 -->
 
 ##### Implementation / 实现
