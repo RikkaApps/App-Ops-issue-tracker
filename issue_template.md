@@ -2,8 +2,8 @@
 Please check the [existing issues](https://github.com/RikkaApps/App-Ops-issue-tracker/issues?q=is%3Aissue) and read in-app help before report issues, Thanks!
 请在报告问题之前检查 [已有的 issue](https://github.com/RikkaApps/App-Ops-issue-tracker/issues?q=is%3Aissue) 并查阅应用内帮助，感谢您的支持！
 
-Replace the tip between <!-- -- > (include itself) with your actually answer.
-将 <!-- -- > 之间的提示 (包括 <!-- -- > 本身) 替换成您的实际情况
+Replace the tips between <!-- -- > (include itself) with your actual situation.
+将 <!-- -- > 之间的提示 (包括 <!-- -- > 本身) 替换成您的实际情况。
 -->
 
 ### Fast System Information String / 快速系统信息字符串
@@ -17,15 +17,15 @@ If you can obtain a fast system information string (since version x.x.x), please
 
 + Android version / Android 版本: <!-- e.g. "7.1.2" --> 
 + Device / 设备型号: <!-- e.g. Google Pixel XL -->
-+ Custom ROM (if applicable) / 自定义 ROM (如果可用) : 
++ Custom ROM (if applicable) / 自定义 ROM (如果可用) : <!-- e.g. MIUI -->
 + App Ops version / 应用版本: <!-- e.g. "2.1.1" -->
-+ Last version that did not exhibit the issue (if applicable) / 最后一个不出现这个问题的版本(如果可用) :
++ Last version that did not exhibit the issue (if applicable) / 最后一个不出现这个问题的应用版本(如果可用) : 
 
 ### Configuration / 应用配置
 
 <!--
-Put an `x` inside the [ ] that applies or replace the tip between asterisks (include asterisks) with your actually answer. Every item is optional, but more detailed description is preferred. 
-在您使用的配置前面的 [ ] 内填入 x 。所有选项都是可选的，但是更多的细节往往能够更容易解决问题。
+Put an `x` inside the [ ] that applies.
+在您使用的配置前面的 [ ] 内填入 x 。
 -->
 
 ##### Implementation / 实现
