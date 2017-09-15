@@ -8,7 +8,7 @@ Replace the tips between <!-- -- > (include itself) with your actual situation.
 
 ### Fast System Information String / 快速系统信息字符串
 <!--
-If you can obtain a fast system information string (since version x.x.x), please paste it here. Otherwise, please fill the Environment and Configuration form. 
+If you can generate a fast system information string (since version x.x.x), please paste it here. Otherwise, please fill the Environment and Configuration form. 
 如果您可以在应用中获取一个快速系统信息字符串 (从 version x.x.x 开始增加的功能)，将它粘贴在这里。否则，请填写下面的“系统环境”和“应用配置”表单。
 -->
 
@@ -45,7 +45,8 @@ Put an `x` inside the [ ] that applies.
 - [ ] Using working profile / 使用工作资料
 
 ##### New app / 新应用
-- [ ] battery optimization whitelist / 已加入系统电池优化白名单
+- [ ] I am using a free version (without these features) / 我使用的是免费版 (没有这些功能)
+- [ ] Battery optimization whitelist / 已加入系统电池优化白名单
 - [ ] Show notification / 显示通知
   - [ ] Switch button / 交换按钮
   - [ ] Tap notification to open app directly rather than open settings / 点击通知直接打开应用而不是进入设置
