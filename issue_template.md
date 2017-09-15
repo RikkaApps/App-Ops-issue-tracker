@@ -38,8 +38,8 @@ Example / 例子:
 - [ ] ROOT mode / ROOT 模式
 - [ ] System plugin / 系统插件
   - System Plugin version / 系统插件版本: <!-- e.g. 6 -->
-- Root method or adb / Root method or adb: <!-- e.g. Magisk / SuperSU / adb --> 
-- Magisk or SuperSU version / Magisk 或 SuperSU 版本: <!-- e.g. Magisk 14.0, SuperSU 2.82 -->
+- Root method or adb / Root 方式或者 adb: <!-- e.g. Magisk / SuperSU / adb --> 
+- Magisk or SuperSU version / Magisk 或 SuperSU 版本: <!-- e.g. Magisk 14.0 / SuperSU 2.82 -->
 
 ##### Appearance / 界面外观
 - Theme / 主题: <!-- e.g. Pixel -->
