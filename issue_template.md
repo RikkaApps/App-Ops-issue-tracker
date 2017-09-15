@@ -17,15 +17,19 @@ If you can generate a fast system information string (since version x.x.x), plea
 
 + Android version / Android 版本: <!-- e.g. "7.1.2" --> 
 + Device / 设备型号: <!-- e.g. Google Pixel XL -->
-+ Custom ROM (if applicable) / 自定义 ROM (如果可用) : <!-- e.g. MIUI -->
++ Custom ROM (if applicable) / 自定义 ROM (如果适用) : <!-- e.g. MIUI -->
 + App Ops version / 应用版本: <!-- e.g. "2.1.1" -->
-+ Last version that did not exhibit the issue (if applicable) / 最后一个不出现这个问题的应用版本(如果可用) : 
++ Last version that did not exhibit the issue (if applicable) / 最后一个不出现这个问题的应用版本(如果适用) : 
 
 ### Configuration / 应用配置
 
 <!--
 Put an `x` inside the [ ] that applies.
 在您使用的配置前面的 [ ] 内填入 x 。
+
+Example / 例子: 
+- [x] item applies / 符合的选项
+- [ ] item doesn't applies / 不符合的选项
 -->
 
 ##### Implementation / 实现
@@ -41,7 +45,7 @@ Put an `x` inside the [ ] that applies.
 - Theme / 主题: <!-- e.g. Pixel -->
 - Night mode / 夜间模式: <!-- e.g. Off -->
 
-##### Users (if available) / 用户 (如果可用)
+##### Users (if applicable) / 用户 (如果适用)
 - [ ] Using working profile / 使用工作资料
 
 ##### New app / 新应用
