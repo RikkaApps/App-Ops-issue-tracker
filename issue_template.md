@@ -35,6 +35,7 @@ Example / 例子:
 ##### Implementation / 实现
 - [ ] Privilege mode / 特权模式
   - Shizuku Manager version / Shizuku Manager 版本: <!-- e.g. 0.2.13 -->
+  - Shizuku Manager start mode / Shizuku Manager 启动方式: <!-- e.g. adb / root -->
 - [ ] ROOT mode / ROOT 模式
 - [ ] System plugin / 系统插件
   - System Plugin version / 系统插件版本: <!-- e.g. 6 -->
